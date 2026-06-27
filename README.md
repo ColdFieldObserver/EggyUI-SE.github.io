@@ -11,7 +11,7 @@
 
 本网站使用字体：[Noto Sans](https://fonts.zeoseven.com/items/69)（中文字体）、[Segoe Pro](https://www.cdnfonts.com/segoe-pro.font)（英文字体）、[Cascadia Code](https://fonts.zeoseven.com/items/447)（内联代码和代码框字体）
 
-本网站由 GitHub Pages 托管，网站代码使用 [AGPL v3](https://choosealicense.com/licenses/agpl-3.0) 许可证开源https://github.com/EggyUI-SE/EggyUI-SE.github.io，且禁止商业用途。除特殊说明外，本网站所有文章采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans) 许可。
+本网站由 GitHub Pages 托管，网站代码使用 [AGPL v3](https://choosealicense.com/licenses/agpl-3.0) 许可证开源，且禁止商业用途。除特殊说明外，本网站所有文章采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans) 许可。
 
 ## Stone Badge
 
